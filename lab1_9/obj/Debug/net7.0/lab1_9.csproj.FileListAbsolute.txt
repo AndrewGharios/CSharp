@@ -1,0 +1,14 @@
+E:\C#\lab1_9\bin\Debug\net7.0\lab1_9.exe
+E:\C#\lab1_9\bin\Debug\net7.0\lab1_9.deps.json
+E:\C#\lab1_9\bin\Debug\net7.0\lab1_9.runtimeconfig.json
+E:\C#\lab1_9\bin\Debug\net7.0\lab1_9.dll
+E:\C#\lab1_9\bin\Debug\net7.0\lab1_9.pdb
+E:\C#\lab1_9\obj\Debug\net7.0\lab1_9.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\lab1_9\obj\Debug\net7.0\lab1_9.AssemblyInfoInputs.cache
+E:\C#\lab1_9\obj\Debug\net7.0\lab1_9.AssemblyInfo.cs
+E:\C#\lab1_9\obj\Debug\net7.0\lab1_9.csproj.CoreCompileInputs.cache
+E:\C#\lab1_9\obj\Debug\net7.0\lab1_9.dll
+E:\C#\lab1_9\obj\Debug\net7.0\refint\lab1_9.dll
+E:\C#\lab1_9\obj\Debug\net7.0\lab1_9.pdb
+E:\C#\lab1_9\obj\Debug\net7.0\lab1_9.genruntimeconfig.cache
+E:\C#\lab1_9\obj\Debug\net7.0\ref\lab1_9.dll
