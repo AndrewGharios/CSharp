@@ -1,0 +1,14 @@
+E:\C#\lab1_22\bin\Debug\net7.0\lab1_22.exe
+E:\C#\lab1_22\bin\Debug\net7.0\lab1_22.deps.json
+E:\C#\lab1_22\bin\Debug\net7.0\lab1_22.runtimeconfig.json
+E:\C#\lab1_22\bin\Debug\net7.0\lab1_22.dll
+E:\C#\lab1_22\bin\Debug\net7.0\lab1_22.pdb
+E:\C#\lab1_22\obj\Debug\net7.0\lab1_22.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\lab1_22\obj\Debug\net7.0\lab1_22.AssemblyInfoInputs.cache
+E:\C#\lab1_22\obj\Debug\net7.0\lab1_22.AssemblyInfo.cs
+E:\C#\lab1_22\obj\Debug\net7.0\lab1_22.csproj.CoreCompileInputs.cache
+E:\C#\lab1_22\obj\Debug\net7.0\lab1_22.dll
+E:\C#\lab1_22\obj\Debug\net7.0\refint\lab1_22.dll
+E:\C#\lab1_22\obj\Debug\net7.0\lab1_22.pdb
+E:\C#\lab1_22\obj\Debug\net7.0\lab1_22.genruntimeconfig.cache
+E:\C#\lab1_22\obj\Debug\net7.0\ref\lab1_22.dll
